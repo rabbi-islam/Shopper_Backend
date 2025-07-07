@@ -35,7 +35,7 @@ app.use(
 
 app.get("/", (req, res) => {
   res.status(200).json({
-    message: "heyyyyyy",
+    message: "Welcome To Shopper Backend :)",
   })
 })
 
